@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "repository": "android_kernel_microsoft_dempsey",
+    "target_path": "kernel/microsoft/dempsey"
+  },
+  {
+    "repository": "android_external_libinit_dpp",
+    "target_path": "external/libinit_dpp"
+  }
+]
